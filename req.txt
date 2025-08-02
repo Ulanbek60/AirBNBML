@@ -4,7 +4,7 @@ cffi==1.17.1
 charset-normalizer==3.4.2
 cryptography==45.0.5
 Django==5.2.4
-django-allauth==65.10.0
+django-allauth==65.10.0 
 django-filter==25.1
 django-modeltranslation==0.19.16
 django-phonenumber-field==8.1.0
